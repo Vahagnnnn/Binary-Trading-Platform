@@ -1,5 +1,7 @@
 # Binary-Trading-Platform
 
+The main work was done on these 3 pages (it’s a full-stack application).
+
 Հիմնական աշխատանքը կատարել եմ այս 3 էջերի վրա(fullstack-աշխատող ծրագիր է)
 <img width="1919" height="866" alt="1" src="https://github.com/user-attachments/assets/2ff0bf43-212a-4c47-a43c-4de23823f883" />
 <img width="1912" height="859" alt="2" src="https://github.com/user-attachments/assets/73076f9f-8679-459e-86a7-835b6267e88c" />
